@@ -15,7 +15,7 @@
   - [Questions](#questions)
 
   ## Installation
-  Clone the repository and open the index.html in a web browser.   
+  Clone the repository and open the index.html in a web browser or view it here https://jonbay.github.io/daily-calendar/ 
 
   ## Usage
   This website can be used to track the events in your day.  
